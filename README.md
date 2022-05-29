@@ -6,3 +6,6 @@ The results in paper can be replicated using the trained models by setting as th
 
 # Graphical Abstract
 <img src="/figures/Graphical_Abstract.png" alt="Coffee" border="0" width="500" >
+
+# Pipeline
+<img src="/figures/Pipeline.svg" alt="Coffee" border="0" width="500" >
