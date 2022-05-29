@@ -9,3 +9,6 @@ The results in paper can be replicated using the trained models by setting as th
 
 # Pipeline
 <img src="/figures/Pipeline.svg" alt="Pipeline" border="0" >
+
+# Missing Interval Imputation Results
+<img src="/figures/Missing_PM2_5.png" alt="Pipeline" border="0" width="500" > <img src="/figures/Missing_PM10.png" alt="Pipeline" border="0" width="500" >
